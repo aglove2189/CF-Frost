@@ -1,2 +1,12 @@
 # CF-Frost
-Generates a valid American Express card
+
+```console
+foo@bar:~$ python CF_Frost.py
+╔════════════════════╗
+║  AMERICAN EXPRESS  ║
+║                    ║
+║                    ║
+║   378459162498549  ║
+║                    ║
+╚════════════════════╝
+```
